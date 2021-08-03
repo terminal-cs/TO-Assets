@@ -1,0 +1,31 @@
+<library name="Exterior">
+	<prop-group name="default">
+		<prop name="porch1">
+				<mesh file="porch1.3ds">
+					<texture name="pdoor1a" diffuse-map="pdoor1a.jpg" />
+                                        <texture name="pdoor1b" diffuse-map="pdoor1b.jpg" />
+                                        <texture name="pdoor1c" diffuse-map="pdoor1c.jpg" />
+				</mesh>
+		</prop>
+		<prop name="porchr1">
+				<mesh file="porchr1.3ds">
+					<texture name="porch" diffuse-map="porch.jpg" />
+				</mesh>
+                </prop>
+		<prop name="porchrd1">
+				<mesh file="porchd1.3ds">
+					<texture name="porch" diffuse-map="porch.jpg" />
+				</mesh>
+		</prop>
+		<prop name="cond1">
+				<mesh file="cond1.3ds">
+					<texture name="cond1" diffuse-map="cond1.jpg" />
+				</mesh>
+		</prop>
+		<prop name="antenna1">
+				<mesh file="ant1.3ds">
+					<texture name="antenna1" diffuse-map="ant1.png" />
+				</mesh>
+		</prop> 
+	</prop-group>
+</library>

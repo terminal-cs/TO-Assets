@@ -1,0 +1,99 @@
+<library name="Defense">
+
+	<prop-group name="small_tunnel">
+		<prop name="Tunnel1">
+				<mesh  file="crd_str.3ds"/>
+		</prop>
+		<prop name="Tunnel2">
+				<mesh  file="crd_st.3ds"/>
+		</prop>
+		<prop name="Tunnel3">
+				<mesh  file="crd_s_st.3ds"/>
+		</prop>
+		<prop name="Tunnel4">
+				<mesh  file="crd_ins.3ds"/>
+		</prop>
+		<prop name="Tunnel5">
+				<mesh  file="crd_b_d1.3ds"/>
+		</prop>		
+		<prop name="Tunnel6">
+				<mesh  file="crd_b_d2.3ds"/>
+		</prop>		
+
+		<prop name="Tunnel7">
+				<mesh  file="crd_b_d3.3ds"/>
+		</prop>
+	</prop-group>
+
+	<prop-group name="big_tunnel">
+		<prop name="BT1">
+				<mesh  file="tunnel_1.3ds"/>
+		</prop>
+		<prop name="BT2">
+				<mesh  file="tunnel_2.3ds"/>
+		</prop>
+		<prop name="BT3">
+				<mesh  file="tun_corn.3ds"/>
+		</prop>
+	</prop-group>
+
+	<prop-group name="trench">
+		<prop name="tren1">
+				<mesh  file="tren_end.3ds"/>
+		</prop>
+		<prop name="tren3">
+				<mesh  file="tren1end.3ds"/>
+		</prop>
+		<prop name="tren4">
+				<mesh  file="trench.3ds"/>
+		</prop>		
+		<prop name="tren5">
+				<mesh  file="trench1.3ds"/>
+		</prop>
+		<prop name="tren_change">
+				<mesh  file="tren_chn.3ds"/>
+		</prop>
+	</prop-group>
+
+	<prop-group name="parapets">
+		<prop name="par1">
+				<mesh  file="parapet1.3ds"/>
+		</prop>
+		<prop name="par2">
+				<mesh  file="par_end1.3ds"/>
+		</prop>
+		<prop name="par3">
+				<mesh  file="point.3ds"/>
+		</prop>
+		<prop name="par6">
+				<mesh  file="border.3ds"/>
+		</prop>
+	</prop-group>
+	
+	<prop-group name="grid">
+		<prop name="gr1">
+				<mesh  file="resh.3ds"/>
+		</prop>
+		<prop name="gr2">
+				<mesh  file="reshcon.3ds"/>
+		</prop>
+		<prop name="gr3">
+				<mesh  file="reshdest.3ds"/>
+		</prop>
+		<prop name="gr4">
+				<mesh  file="reshtram.3ds"/>
+		</prop>
+	</prop-group>
+	
+	<prop-group name="show">
+		<prop name="camera">
+				<mesh  file="camera.3ds"/>
+		</prop>
+		<prop name="lighttow">
+				<mesh  file="lighttow.3ds"/>
+		</prop>
+		<prop name="monitor">
+				<mesh  file="monitor.3ds"/>
+		</prop>
+	</prop-group>
+</library>

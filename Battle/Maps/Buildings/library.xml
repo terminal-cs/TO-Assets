@@ -1,0 +1,233 @@
+<library name="Com Build">
+
+	<prop-group name="complex build">
+		<prop name="CB1">
+				<mesh  file="comb.3ds">
+				<texture name="1" diffuse-map="comb_w1.jpg" />
+				<texture name="21" diffuse-map="comb_w1a.jpg" />
+				<texture name="2" diffuse-map="comb_w1b.jpg" />
+				<texture name="23" diffuse-map="comb_w1c.jpg" />
+				<texture name="24" diffuse-map="comb_w1d.jpg" />
+				<texture name="25" diffuse-map="comb_w1e.jpg" />
+				<texture name="26" diffuse-map="comb_w1f.jpg" />
+				<texture name="27" diffuse-map="comb_w1g.jpg" />
+				<texture name="3" diffuse-map="comb_w2a.jpg" />
+				<texture name="4" diffuse-map="comb_w2b.jpg" />
+				<texture name="5" diffuse-map="comb_w2c.jpg" />
+				<texture name="6" diffuse-map="comb_w2d.jpg" />
+				<texture name="8" diffuse-map="comb_w3a.jpg" />
+				<texture name="9" diffuse-map="comb_w3b.jpg" />
+				<texture name="10" diffuse-map="comb_w3c.jpg" />
+				<texture name="11" diffuse-map="comb_w3d.jpg" />
+				<texture name="12" diffuse-map="comb_w3e.jpg" />
+				<texture name="13" diffuse-map="comb_w3f.jpg" />
+				<texture name="14" diffuse-map="comb_w3g.jpg" />
+				<texture name="15" diffuse-map="comb_w2e.jpg" />
+				<texture name="16" diffuse-map="comb_w2f.jpg" />
+				<texture name="17" diffuse-map="comb_w2h.jpg" />
+				<texture name="21a" diffuse-map="comb_w2g.jpg" />
+				<texture name="22a" diffuse-map="comb_w3h.jpg" />
+                                <texture name="33a" diffuse-map="market_w4a.jpg" />
+                                <texture name="33b" diffuse-map="market_w4b.jpg" />
+                                <texture name="33c" diffuse-map="market_w4c.jpg" />
+                                <texture name="33d" diffuse-map="market_w4d.jpg" />
+                                <texture name="33e" diffuse-map="market_w4e.jpg" />
+                                <texture name="33f" diffuse-map="market_w4f.jpg" />
+                                <texture name="33g" diffuse-map="market_w4g.jpg" />
+                                <texture name="35a" diffuse-map="market_w6a.jpg" />
+                                <texture name="35b" diffuse-map="market_w6b.jpg" />
+                                <texture name="35c" diffuse-map="market_w6c.jpg" />
+                                <texture name="35d" diffuse-map="market_w6d.jpg" />
+                                <texture name="35e" diffuse-map="market_w6e.jpg" />
+                                <texture name="35f" diffuse-map="market_w6f.jpg" />
+                                </mesh>
+		</prop>
+		<prop name="CB2">
+				<mesh  file="comb_a.3ds">
+				<texture name="1" diffuse-map="comb_w1.jpg" />
+				<texture name="21" diffuse-map="comb_w1a.jpg" />
+				<texture name="2" diffuse-map="comb_w1b.jpg" />
+				<texture name="23" diffuse-map="comb_w1c.jpg" />
+				<texture name="24" diffuse-map="comb_w1d.jpg" />
+				<texture name="25" diffuse-map="comb_w1e.jpg" />
+				<texture name="26" diffuse-map="comb_w1f.jpg" />
+				<texture name="27" diffuse-map="comb_w1g.jpg" />
+				<texture name="3" diffuse-map="comb_w2a.jpg" />
+				<texture name="4" diffuse-map="comb_w2b.jpg" />
+				<texture name="5" diffuse-map="comb_w2c.jpg" />
+				<texture name="6" diffuse-map="comb_w2d.jpg" />
+				<texture name="8" diffuse-map="comb_w3a.jpg" />
+				<texture name="9" diffuse-map="comb_w3b.jpg" />
+				<texture name="10" diffuse-map="comb_w3c.jpg" />
+				<texture name="11" diffuse-map="comb_w3d.jpg" />
+				<texture name="12" diffuse-map="comb_w3e.jpg" />
+				<texture name="13" diffuse-map="comb_w3f.jpg" />
+				<texture name="14" diffuse-map="comb_w3g.jpg" />
+				<texture name="15" diffuse-map="comb_w2e.jpg" />
+				<texture name="16" diffuse-map="comb_w2f.jpg" />
+				<texture name="17" diffuse-map="comb_w2h.jpg" />
+				<texture name="21a" diffuse-map="comb_w2g.jpg" />
+				<texture name="22a" diffuse-map="comb_w3h.jpg" />
+                                <texture name="33a" diffuse-map="market_w4a.jpg" />
+                                <texture name="33b" diffuse-map="market_w4b.jpg" />
+                                <texture name="33c" diffuse-map="market_w4c.jpg" />
+                                <texture name="33d" diffuse-map="market_w4d.jpg" />
+                                <texture name="33e" diffuse-map="market_w4e.jpg" />
+                                <texture name="33f" diffuse-map="market_w4f.jpg" />
+                                <texture name="33g" diffuse-map="market_w4g.jpg" />
+                                <texture name="35a" diffuse-map="market_w6a.jpg" />
+                                <texture name="35b" diffuse-map="market_w6b.jpg" />
+                                <texture name="35c" diffuse-map="market_w6c.jpg" />
+                                <texture name="35d" diffuse-map="market_w6d.jpg" />
+                                <texture name="35e" diffuse-map="market_w6e.jpg" />
+                                <texture name="35f" diffuse-map="market_w6f.jpg" />
+				</mesh>
+		</prop>
+		<prop name="CB3">
+				<mesh  file="comb_a1.3ds">
+				texture name="1" diffuse-map="combuil1.jpg" />
+                                <texture name="2" diffuse-map="combuil1a.jpg" />
+				<texture name="3" diffuse-map="combuil2.jpg" />
+                                <texture name="4" diffuse-map="combuil2a.jpg" />
+				<texture name="5" diffuse-map="combuil3.jpg" />
+                                <texture name="6" diffuse-map="combuil3a.jpg" />
+				</mesh>
+		</prop>
+		<prop name="CB4">
+				<mesh  file="comb_a2.3ds">
+				texture name="1" diffuse-map="combuil1.jpg" />
+                                <texture name="2" diffuse-map="combuil1a.jpg" />
+				<texture name="3" diffuse-map="combuil2.jpg" />
+                                <texture name="4" diffuse-map="combuil2a.jpg" />
+				<texture name="5" diffuse-map="combuil3.jpg" />
+                                <texture name="6" diffuse-map="combuil3a.jpg" />
+				</mesh>
+		</prop>
+		<prop name="CB5">
+				<mesh  file="comb_a3.3ds">
+				texture name="1" diffuse-map="combuil1.jpg" />
+                                <texture name="2" diffuse-map="combuil1a.jpg" />
+				<texture name="3" diffuse-map="combuil2.jpg" />
+                                <texture name="4" diffuse-map="combuil2a.jpg" />
+				<texture name="5" diffuse-map="combuil3.jpg" />
+                                <texture name="6" diffuse-map="combuil3a.jpg" />
+				</mesh>
+		</prop>
+		<prop name="CB7">
+				<mesh  file="comb2.3ds">
+				<texture name="1" diffuse-map="combuil1.jpg" />
+                                <texture name="2" diffuse-map="combuil1a.jpg" />
+				<texture name="3" diffuse-map="combuil2.jpg" />
+                                <texture name="4" diffuse-map="combuil2a.jpg" />
+				<texture name="5" diffuse-map="combuil3.jpg" />
+                                <texture name="6" diffuse-map="combuil3a.jpg" />
+				</mesh>		
+                 </prop>
+                 <prop name="porch1">
+                                <mesh file="porch1.3ds">
+                                <texture name="porch1" diffuse-map="porch.jpg" />
+                                <texture name="porch2" diffuse-map="porch1.jpg" />
+                                <texture name="porch3" diffuse-map="porch2.jpg" />
+                                </mesh>
+                 </prop>
+                 <prop name="porchd">
+                                <mesh file="porchd1.3ds">
+                                <texture name="porch1" diffuse-map="porch.jpg" />
+                                </mesh>
+                  </prop>
+                  <prop name="pdoor1">
+                                <mesh file="pdoor1.3ds">
+                                <texture name="pdoor1a" diffuse-map="pdoor1a.jpg" />
+                                <texture name="pdoor1b" diffuse-map="pdoor1b.jpg" />
+                                <texture name="pdoor1c" diffuse-map="pdoor1c.jpg" />
+                                <texture name="pdoor1d" diffuse-map="pdoor1d.jpg" />
+                                <texture name="pdoor1e" diffuse-map="pdoor1e.jpg" />
+                                <texture name="pdoor1f" diffuse-map="pdoor1f.jpg" />
+                                </mesh>
+                   </prop>
+                   <prop name="porchr1">
+                                <mesh file="porchr1.3ds">
+                                <texture name="porch" diffuse-map="porch.jpg" />
+                                <texture name="porchr1" diffuse-map="porch.jpg" />
+                                <texture name="porch2" diffuse-map="porch1.jpg" />
+                                <texture name="porch3" diffuse-map="porch2.jpg" />
+                                 </mesh>
+                   </prop>
+                   <prop name="dect1">
+                                <mesh file="dect1.3ds">
+                                <texture name="decor2" diffuse-map="decor2.jpg" />
+                                </mesh>
+                   </prop>
+                   <prop name="decg1">
+                                <mesh file="decg1.3ds">
+                                <texture name="decor1" diffuse-map="decor1.jpg" />
+                                </mesh>
+                   </prop>
+                   <prop name="decv1">
+                                <mesh file="decv1.3ds">
+                                <texture name="decor1" diffuse-map="decor1.jpg" />
+                                </mesh>
+                   </prop>
+                   <prop name="decv2">
+                                <mesh file="decv2.3ds">
+                                <texture name="decor1" diffuse-map="decor1.jpg" />
+                                </mesh>
+                   </prop>
+                   <prop name="decv3">
+                                <mesh file="decv3.3ds">
+                                <texture name="decor1" diffuse-map="decor1.jpg" />
+                                </mesh>
+                   </prop>
+                   <prop name="decv4">
+                                <mesh file="decv4.3ds">
+                                <texture name="decor1" diffuse-map="decor1.jpg" />
+                                </mesh>
+                   </prop>
+
+                   <prop name="bot1_6">
+                                <mesh file="bot1_6.3ds">
+                                <texture name="bot1" diffuse-map="bot1.jpg" />
+                                </mesh>
+                   </prop>
+
+                   <prop name="bot1_7">
+                                <mesh file="bot1_7.3ds">
+                                <texture name="bot1a" diffuse-map="bot1a.jpg" />
+                                <texture name="bot1c" diffuse-map="bot1b.jpg" />
+                                </mesh>
+                   </prop>
+
+
+                   <prop name="bot1_bar">
+                                <mesh file="bot1_bar.3ds">
+                                <texture name="bot1b" diffuse-map="bot1a.jpg" />
+                                <texture name="bot1d" diffuse-map="bot1b.jpg" />
+                                </mesh>
+                   </prop>
+
+
+                   <prop name="bot1_8">
+                                <mesh file="bot1_8.3ds">
+                                <texture name="bot1_2" diffuse-map="bot1_2.jpg" />
+                                </mesh>
+                   </prop>
+                   <prop name="bot3_3">
+                                <mesh file="bot3_3.3ds">
+                                <texture name="bot1_3" diffuse-map="bot1_3.jpg" />
+                                </mesh>
+                   </prop>
+	     </prop-group>
+
+            <prop-group name="wtile">
+	    <prop name="wtile">
+				<mesh  file="wtile_1.3ds">
+				<texture name="1" diffuse-map="wtile_b.jpg" />
+                                </mesh>
+		</prop>
+		<prop name="wtileb">
+				<mesh  file="wtile_2.3ds">
+				<texture name="2" diffuse-map="wtile1.jpg" />
+				</mesh>
+		</prop>
+                </prop-group>
+        </library>

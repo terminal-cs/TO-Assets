@@ -1,0 +1,150 @@
+<library name="Exterior">
+	<prop-group name="default">
+
+        
+
+
+
+<prop name="cond1">
+	    <mesh file="cond1.3ds">
+		<texture name="cond1" diffuse-map="cond1.jpg" />
+	    </mesh>
+	 </prop>
+
+
+<prop name="antenna2">
+              <sprite file="ant1.png" origin-y="0.99" scale="0.9"/>
+	  </prop>
+
+
+<prop name="angwall1">
+            <mesh file="angwall1.3ds">
+                <texture name="dot1" diffuse-map="dot1_1.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="angwall2">
+            <mesh file="angwall2.3ds">
+                <texture name="dot2" diffuse-map="dot1_1.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="angwin2">
+            <mesh file="angwin2.3ds">
+                <texture name="dot4" diffuse-map="angwin1.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="side1">
+            <mesh file="side1.3ds">
+                <texture name="dot6" diffuse-map="dot2.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="side2">
+            <mesh file="side2.3ds">
+                <texture name="dot7" diffuse-map="dot2.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="side3">
+            <mesh file="side3.3ds">
+                <texture name="dot8" diffuse-map="dot2.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="side4">
+            <mesh file="side4.3ds">
+                <texture name="dot9" diffuse-map="dot2.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="spring1">
+            <mesh file="spring1.3ds">
+                <texture name="dot11" diffuse-map="dot2.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="wall1">
+            <mesh file="wall1.3ds">
+                <texture name="dot17" diffuse-map="dot2_2.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="wall2">
+            <mesh file="wall2.3ds">
+                <texture name="dot18" diffuse-map="dot2_2.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="wall3">
+            <mesh file="wall3.3ds">
+                <texture name="dot19" diffuse-map="dot2_3.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="wall4">
+            <mesh file="wall4.3ds">
+                <texture name="dot20" diffuse-map="dot2_3.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="win1">
+            <mesh file="win1.3ds">
+                <texture name="dot21" diffuse-map="dot2_3.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="win2">
+            <mesh file="win2.3ds">
+                <texture name="dot22" diffuse-map="dot2_4.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="winwall1">
+            <mesh file="winwall1.3ds">
+                <texture name="dot23" diffuse-map="dot2_4.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="winwall2">
+            <mesh file="winwall2.3ds">
+                <texture name="dot24" diffuse-map="dot2_5.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="winwall3">
+            <mesh file="winwall3.3ds">
+                <texture name="dot25" diffuse-map="dot2_5.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="winwall4">
+            <mesh file="winwall4.3ds">
+                <texture name="dot26" diffuse-map="dot2_6.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="wtile1">
+            <mesh file="wtile1.3ds">
+                <texture name="dot27" diffuse-map="dot2_6.jpg" />
+            </mesh>
+        </prop>
+
+<prop name="wtile2">
+            <mesh file="wtile2.3ds">
+                <texture name="dot28" diffuse-map="dot2_6.jpg" />
+            </mesh>
+        </prop>
+
+            
+
+
+
+
+
+
+
+
+	</prop-group>
+</library>

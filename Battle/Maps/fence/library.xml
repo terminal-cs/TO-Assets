@@ -1,0 +1,42 @@
+<library name="Fence">
+
+	<prop-group name="out_fence">
+		<prop name="of1">
+				<mesh  file="fence_ci.3ds"/>
+		</prop>
+		<prop name="of2">
+				<mesh  file="fence_co.3ds"/>
+		</prop>
+		<prop name="of3">
+				<mesh  file="fence_l.3ds"/>
+		</prop>
+		<prop name="of4">
+				<mesh  file="fence_s.3ds"/>
+		</prop>
+	</prop-group>
+
+	<prop-group name="fence_a">
+		<prop name="fence1">
+				<mesh  file="wallbig.3ds"/>
+		</prop>
+		<prop name="fence2">
+				<mesh  file="wallbn.3ds"/>
+		</prop>
+		<prop name="fence3">
+				<mesh  file="wallbs.3ds"/>
+		</prop>
+		<prop name="fence4">
+				<mesh  file="wallcon.3ds"/>
+		</prop>
+		<prop name="fence5">
+				<mesh  file="wallend.3ds"/>
+		</prop>
+		<prop name="fence6">
+				<mesh  file="walllit.3ds"/>
+		</prop>
+		<prop name="fence7">
+				<mesh  file="walltr.3ds"/>
+		</prop>
+	</prop-group>
+	
+</library>

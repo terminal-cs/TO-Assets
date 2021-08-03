@@ -1,0 +1,134 @@
+<library name="Passage">
+
+	<prop-group name="big_bridge">
+		<prop name="cbr_1">
+                                <mesh file="cbr_1.3ds">
+                <texture name="bridge1" diffuse-map="cbr1.jpg" />
+               </mesh>
+               </prop>
+                <prop name="cbr_2">
+                                <mesh file="cbr_2.3ds">
+               <texture name="bridge2" diffuse-map="cbr1.jpg" />
+               <texture name="bridge2a" diffuse-map="cbr1a.jpg" />
+               <texture name="bridge2b" diffuse-map="cbr1b.jpg" />
+               <texture name="bridge2c" diffuse-map="cbr1c.jpg" />
+               </mesh>
+               </prop>              
+              
+               <prop name="cbr_ang2">
+                               <mesh file="cbr_ang2.3ds">
+                <texture name="bridge4" diffuse-map="cbr_ang3.jpg" />
+               </mesh>
+               </prop>
+               <prop name="cbr_ang3">
+                               <mesh file="cbr_ang3.3ds">
+                <texture name="bridge6" diffuse-map="cbr_ang3.jpg" />
+               </mesh>
+               </prop>
+               <prop name="cbr_ang4">
+                              <mesh file="cbr_ang4.3ds">
+                <texture name="bridge7" diffuse-map="cbr_ang5.jpg" />
+               </mesh>
+               </prop>
+               <prop name="cbr_ang5">
+                              <mesh file="cbr_ang5.3ds">
+                <texture name="bridge8" diffuse-map="cbr_ang5.jpg" />
+               </mesh>
+               </prop>
+               <prop name="cbr_pil">
+                              <mesh file="cbr_pil.3ds">
+                <texture name="bridge9" diffuse-map="cbr_pil.jpg" />
+               </mesh>
+               </prop>
+               <prop name="pillar">
+                              <mesh file="pillar.3ds">
+                <texture name="bridge10" diffuse-map="cbr_pil.jpg" />
+               </mesh>
+               </prop>
+               <prop name="pillar_d">
+                             <mesh file="pillar_d.3ds">
+                <texture name="bridge11" diffuse-map="cbr_pil.jpg" />
+               </mesh>
+               </prop>
+               </prop-group>
+
+	<prop-group name="bridge_a">
+		<prop name="BA1">
+				<mesh  file="brid_1.3ds"/>
+                 <texture name="brid3" diffuse-map="brid_1.jpg" />
+		</prop>
+		<prop name="BA2">
+				<mesh  file="brid_2.3ds">
+				<texture name="BA2 var1" diffuse-map="brid_2.jpg" />
+				<texture name="BA2 var2" diffuse-map="brid_2v2.jpg" />
+				<texture name="BA2 var3" diffuse-map="brid_2v3.jpg" />
+		</mesh>
+		</prop>
+		<prop name="BA3">
+				<mesh  file="brid_3.3ds"/>
+		</prop>
+		<prop name="BA4">
+				<mesh  file="brid_4.3ds"/>
+		</prop>
+		<prop name="BA5">
+				<mesh  file="brid_5.3ds"/>
+		</prop>
+		<prop name="BA6">
+				<mesh  file="brid_6.3ds"/>
+		</prop>
+		<prop name="BA7">
+				<mesh  file="brid_7.3ds"/>
+		</prop>	
+		<prop name="spring1">
+				<mesh  file="springb.3ds"/>
+                <texture name="brid1" diffuse-map="brid_1.jpg" />
+		</prop>
+		<prop name="spring2">
+				<mesh  file="springb01.3ds"/>
+                <texture name="brid2" diffuse-map="brid_1.jpg" />
+		</prop>
+		<prop name="spring_up">
+				<mesh  file="sp_up.3ds"/>
+		</prop>
+		<prop name="spring_down">
+				<mesh  file="sp_down.3ds"/>
+		</prop>
+		<prop name="spring2_up">
+				<mesh  file="sp2_up.3ds"/>
+		</prop>
+		<prop name="spring2_down">
+				<mesh  file="sp2_down.3ds"/>
+		</prop>
+	</prop-group>
+
+	<prop-group name="parking">
+		<prop name="park1">
+				<mesh  file="upcln.3ds"/>
+		</prop>
+                <prop name="park1a">
+				<mesh  file="upcln1.3ds"/>
+		</prop>
+		<prop name="park2">
+				<mesh  file="upclnb.3ds"/>
+		</prop>
+                <prop name="park2a">
+				<mesh  file="upclnb1.3ds"/>
+		</prop>
+		<prop name="park3">
+				<mesh  file="upone.3ds"/>
+		</prop>
+		<prop name="park4">
+				<mesh  file="upright.3ds"/>
+                </prop>
+                <prop name="park6">
+				<mesh  file="cutright.3ds"/>
+		</prop>
+		<prop name="park5">
+				<mesh  file="uptwo.3ds"/>
+		</prop>
+	</prop-group>
+
+	
+
+	
+</library>
