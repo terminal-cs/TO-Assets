@@ -11,4 +11,4 @@ feel free to download this an use them in hobyist projects
 | All maps   | Unknown   | N/A       |
 | All sounds | Yes       | No        |
 | Game icons | Yes       | No        |
-> Note: some content might be missing/corrupted. of you find something wrong, contact me.
+> Note: some content might be missing/corrupted. If you find something wrong, contact me.
